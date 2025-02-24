@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871554909059",
+    "project_id": "holidays-app-ef808",
+    "storage_bucket": "holidays-app-ef808.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871554909059:android:2fca79c760a6f42077acb6",
+        "android_client_info": {
+          "package_name": "com.example.holidays_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1YRDV2sZ5xW-gWVJeVUj5DB4yaumYlM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
